@@ -335,19 +335,8 @@ Actual model performance should be measured experimentally. ChatGPT-generated re
 
 The following flowchart represents the experiment procedure.
 
-```mermaid
-flowchart TD
-    A[Select Engineering Problem] --> B[Write Naive Prompt]
-    B --> C[Generate ChatGPT Response]
-    C --> D[Apply Improved Prompting Techniques]
-    D --> E[Generate New Responses]
-    E --> F[Compare All Responses]
-    F --> G[Evaluate Quality and Accuracy]
-    G --> H[Select Best Prompting Technique]
-    H --> I[Prepare Refined Final Prompt]
-    I --> J[Engineering Validation]
-    J --> K[Conclusion]
-```
+<img width="182" height="867" alt="image" src="https://github.com/user-attachments/assets/e43e9456-459b-43fc-88de-d5b9d8f67a33" />
+
 
 ## 15. RESULT ANALYSIS
 
