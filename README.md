@@ -1,5 +1,8 @@
 # EXPERIMENT 5: Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
 
+### Name: Junjar U
+### Register No.: 212224230110
+
 ## 1. AIM
 
 To compare different prompting techniques and evaluate their effectiveness in solving real-world engineering problems using ChatGPT. The experiment aims to analyse how prompt structure, clarity, context and constraints influence the quality, accuracy, completeness and usefulness of AI-generated responses.
